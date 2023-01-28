@@ -15,8 +15,8 @@ wget -q "https://github.com/takichy-dz/channels-e2/raw/main/channels_spider_x_en
 tar -xzf channels_spider_x_enigma2.tar.gz -C /
 rm -rf channels_spider_x_enigma2.tar.gz
 echo "############ List SAT by MOHAMED_OS IPTV by LinuxSat #############"
-     "###### Modifed and uploaded for Otex Spider X by Takichy #########"
-              "###### Script by Takichy *** enjoy *** ###########"
+echo "###### Modifed and uploaded for Otex Spider X by Takichy #########"
+echo           "###### Script by Takichy *** enjoy *** ###########"
 init 3
 exit 0
 
