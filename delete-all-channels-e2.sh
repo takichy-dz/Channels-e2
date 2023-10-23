@@ -7,4 +7,5 @@ rm -rf *.tv lame* bouq* user* black* white*
 sleep 1
 echo           "###### Script by Takichy *** enjoy *** ###########"
 
+init 3
 exit 0
